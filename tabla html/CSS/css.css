@@ -1,0 +1,39 @@
+*{
+	font-family: verdana;
+}
+#titles {
+    font-size: 10pt;
+    text-align: center;
+    font-style: bold;
+}
+
+#conteiner {
+    text-align: center;
+    
+}
+
+.name {
+    text-align: center;
+    margin: 20px;
+    width: 20%;
+}
+
+;
+
+.month{
+	width: 100px;
+	margin: 2px;
+}
+
+table {
+    border: 1px solid;
+    border-color: black;
+   
+}
+
+
+td {
+	width: 20%;
+   	border: 1px solid;
+    margin: 2px;
+}
